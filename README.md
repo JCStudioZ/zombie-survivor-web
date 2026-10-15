@@ -3,5 +3,5 @@
 Play: https://jcstudioz.github.io/zombie-survivor-web/
 
 A couch co-op horde survival game made with Godot. This repo only holds the
-exported web build (from zombie-survivor a2905ac); it is published by
+exported web build (from zombie-survivor c916a0c); it is published by
 tools/deploy_web.sh in the source repo.
